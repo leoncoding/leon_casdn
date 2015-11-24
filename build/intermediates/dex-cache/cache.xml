@@ -2,179 +2,179 @@
 <items version="2" >
 
     <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-3b17bb8beffa4088028dc659dd324162ab91b4f9.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.commit451\PhotoView\1.2.4\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-0ee28de21361595a64fe1d746c37fe49b28a3891.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-8fb1ccec4c849ffb4f10d3b10475e722c5dc7568.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\libs\universal-image-loader-1.9.2-with-sources.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="111169c43b8a601f571585f75d998e6027e48ff4">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-with-sources-8abc06c8d43effffe2ff7000d5df2876cbdc869c.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-c71946bde8777cea685fb7d1b6d9be22c271477d.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-d406e24b700f2f6f9c3b9ec6e3076d8ab765516f.jar" />
-    </item>
-    <item
-        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\cn.trinea.android.view.autoscrollviewpager\android-auto-scroll-view-pager\1.1.2\8ad9237a8b0965696ea32ca9c1de173e082eaad4\android-auto-scroll-view-pager-1.1.2.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8ad9237a8b0965696ea32ca9c1de173e082eaad4">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\android-auto-scroll-view-pager-1.1.2-ce0181f3fe9de0766ac8e30d5e1adb6a8093e067.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-be59f0a9a321da8d16a6a2aba8ad95383505ea6c.jar" />
-    </item>
-    <item
-        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="6904771474c058abfc5912c13d12b02754712165">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.3.1-8586a14fdd032f2fb79a679599ec8602dd05f8ed.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-0112b14c37d13f497f240cf369ae434b4d6e5629.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-4a1656c69fe7ec2045f052934ed9e6543ddd1b71.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-8f4cb3358473c38cf9dbc0085c754da2260c56ca.jar" />
-    </item>
-    <item
-        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.3.1-985013cd6d576e3aaac964f6481a022e712e1a14.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-1bfa93cccee746c0cc1f5b9aa53ca3c5803c6acc.jar" />
-    </item>
-    <item
-        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\haha-1.3-c57780deb5c8959340a834e1e63f6b847914cef1.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-1d944dfde47768fe854f33c66bd915b1775a7843.jar" />
-    </item>
-    <item
-        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\butterknife-5.1.1-2e086688835f9872fa56b980299492d472400645.jar" />
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\butterknife-5.1.1-4e4ce574f3d72998b594448756183a3048e0c38d.jar" />
     </item>
     <item
-        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\okio-1.6.0-1652f4aae3072c4b9d3525d52f3d6b11b6983a3f.jar" />
-    </item>
-    <item
-        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\okhttp-2.5.0-9f8128fd63f7e5cd4fe5dc4bb9ad7aac900f0052.jar" />
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\okhttp-2.5.0-c5a573687790528960a2cdb5042d396490d51899.jar" />
     </item>
     <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.github.mmin18.layoutcast\library\1.1.5\jars\classes.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="dd8c6466950de1d1d8b91e70d4d537609d450ea8">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-e1ea91e2977d15a3a4466440f227484d55510066.jar" />
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\haha-1.3-2de8629f8471de321d4f185494a8420d2b7db5be.jar" />
     </item>
     <item
-        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.15\f0ab8b7c8010cad33b8debda5d09d233571dc486\rxjava-1.0.15.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\okio-1.6.0-c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-889b372cfd177b6acd93ab06d37466c279ee152a.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-843c4868e47e6f65e73090252788ba36d3375fbc.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-379a4f5f648c09fa88e95392e9ebb80fcd8b3e1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.3.1-52ed60c3cfefe5efa98f7dc7c1aa6859c236acc5.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-3457a35bdbeedb3d95c64af526fd6d7a34fc9e33.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-7c7fd2546ad8a1596333cde2f87fc3e21a096053.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.commit451\PhotoView\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-bf9179d4746c099baf70455f480e4db2b3217c1a.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-8993b29d7b539c950d8e202cfd181a6c79a39ff4.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-a63d8f02239df90efe6e4d7091cdf3c80aa4093a.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-4e33739918301d9446d56481f12bf798c4dce914.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\libs\universal-image-loader-1.9.2-with-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="111169c43b8a601f571585f75d998e6027e48ff4">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-with-sources-8686f4d44b2d2cfcc5e51880849aad36b47670f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.15\f0ab8b7c8010cad33b8debda5d09d233571dc486\rxjava-1.0.15.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="f0ab8b7c8010cad33b8debda5d09d233571dc486">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\rxjava-1.0.15-c99269ffff729208da6d6c434c5293366e595a89.jar" />
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\rxjava-1.0.15-bbaabab32f40df212e98d5d0789bc92a0db318d8.jar" />
     </item>
     <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.3\jars\classes.jar"
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-e59046c6ba4f8a403b1020d3c6d718037e3824d4.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-58e076a05f80fa27ffb7ee03c0b255fd29bd20e6.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.github.mmin18.layoutcast\library\1.1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd8c6466950de1d1d8b91e70d4d537609d450ea8">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-27aa0f8d6ff239cb7f4885a41494008ac137f84f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.trinea.android.view.autoscrollviewpager\android-auto-scroll-view-pager\1.1.2\8ad9237a8b0965696ea32ca9c1de173e082eaad4\android-auto-scroll-view-pager-1.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8ad9237a8b0965696ea32ca9c1de173e082eaad4">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\android-auto-scroll-view-pager-1.1.2-6e827b208cea3438277445fb3288ac11d202ec7d.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-c73868c16e9fb00a76c7342a4991cb9051908baf.jar" />
+    </item>
+    <item
+        jar="D:\CSDN\leon_casdn\myapplication\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.3\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-24ecc77a0cd5a7cd4d062b981882eade9d40edc9.jar" />
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\classes-8a0e6077ef05e84590cddf71d0dcb24583bfb5da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\gson-2.2.4-752a4694a6e7953de1b9e1ac68ee96a302f761f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.3.1-bff71017ec040d96040347847022b3e63832fca9.jar" />
     </item>
     <item
         jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-d3b27e01444ab59d3019be7936b5ba6bc5c7b696.jar" />
-    </item>
-    <item
-        jar="E:\csdn\leon_casdn\myapplication\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-b3af1e749a5497141125202457f97e0d0f69e814.jar" />
-    </item>
-    <item
-        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="E:\csdn\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\gson-2.2.4-86da1327d4da53617d8934b71e23a57267409128.jar" />
+        <dex dex="D:\CSDN\leon_casdn\myapplication\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-d3b27e01444ab59d3019be7936b5ba6bc5c7b696.jar" />
     </item>
 
 </items>

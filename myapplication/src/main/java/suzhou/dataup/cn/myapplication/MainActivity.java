@@ -15,9 +15,12 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
+import java.util.ArrayList;
+
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 import suzhou.dataup.cn.myapplication.adputer.SimpleFragmentPagerAdapter;
+import suzhou.dataup.cn.myapplication.bean.BlogTagBean;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
     @InjectView(R.id.toolbar)
@@ -45,7 +48,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayShowTitleEnabled(false);
-        toolbar.setTitle("简约");
+        toolbar.setTitle("CSDN");
         toolbar.setTitleTextColor(Color.WHITE);
         initCount();
         // initObse();
@@ -54,13 +57,14 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
 
     private void initCount() {
+        ArrayList<String> array = (ArrayList<String>)getIntent().getSerializableExtra("list");
         //实现和侧滑栏联动效果
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, mDrawerLayout, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         mDrawerLayout.setDrawerListener(toggle);
         toggle.syncState();
         mNavigationView.setNavigationItemSelectedListener(this);
         //==================================================================
-        pagerAdapter = new SimpleFragmentPagerAdapter(getSupportFragmentManager(), this);
+        pagerAdapter = new SimpleFragmentPagerAdapter(getSupportFragmentManager(),this,array);
         viewPager = (ViewPager) findViewById(R.id.viewpager);
         viewPager.setAdapter(pagerAdapter);
         tabLayout = (TabLayout) findViewById(R.id.sliding_tabs);

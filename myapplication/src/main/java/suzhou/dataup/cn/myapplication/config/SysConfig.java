@@ -51,4 +51,10 @@ public class SysConfig {
     public static final boolean isCalDis = false;
 
 
+
+    public static class URL {
+        public static String CLIENT_ID="1100214";
+        public static String ROOT_URL="http://api.csdn.net/blog/";
+        public static String CLASSIFY_URL="getchannel";
+    }
 }

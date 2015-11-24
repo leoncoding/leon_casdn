@@ -5,6 +5,9 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
+import java.util.ArrayList;
+
+import suzhou.dataup.cn.myapplication.bean.BlogTagBean;
 import suzhou.dataup.cn.myapplication.fragment.AndroidFragment;
 import suzhou.dataup.cn.myapplication.fragment.PageFragment;
 import suzhou.dataup.cn.myapplication.fragment.RestViedoFragment;
@@ -17,12 +20,14 @@ import suzhou.dataup.cn.myapplication.fragment.WealFragment;
  */
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
-    private String tabTitles[] = new String[]{"福利", "Android", "新闻", "休息视频"};
+    //private String tabTitles[] = new String[]{"福利", "Android", "新闻", "休息视频"};
+    private ArrayList<String> list;
     private Context context;
 
-    public SimpleFragmentPagerAdapter(FragmentManager fm, Context context) {
+    public SimpleFragmentPagerAdapter(FragmentManager fm, Context context,ArrayList<String> list) {
         super(fm);
         this.context = context;
+        this.list = list;
     }
 
     @Override
@@ -59,11 +64,11 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public int getCount() {
-        return tabTitles.length;
+        return list.size();
     }
 
     @Override
     public CharSequence getPageTitle(int position) {
-        return tabTitles[position];
+        return list.get(position).toString();
     }
 }
